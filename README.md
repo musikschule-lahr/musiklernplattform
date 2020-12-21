@@ -18,17 +18,27 @@ Lehrende können einen Teil ihrer Arbeit an ihre „digitalen Assistenten“ del
 
 ## Die Bestandteile
 ### 1. Korrepetition
+![Korrepetition](/readme_korrepetition.jpg)
+
 Schüler können sich virtuell mit dem Klavier begleiten lassen. Dabei können sie Tempo und Tonhöhe verändern und haben die Möglichkeit, sich selbst aufzunehmen. Die ebenfalls zur Verfügung stehende Solostimme (hier Violine, im Bild rechts), kann in der Lautstärke geregelt werden oder stumm bzw. allein, d.h. ohne Klavierbegleitung, abgespielt werden. Ausgewählte Stellen können in Endlosschleifen wiedergegeben werden. Entstandene Aufnahmen können mit Lehrkräften, Eltern, etc. geteilt werden.
+
+![Für alle zugänglich](/readme_zugaenglich.png)
 
 ### 2. Private Projekte
 Private Projekte bietet die Möglichkeit, von der Lehrkraft selbst erstellte Inhalte zu teilen, z. B. von Lehrkraft zu SchülerIn und umgekehrt, von Lehrkraft zu Lehrkraft oder SchülerInnen untereinander. Inhalte könne beispielhaft Lehrgänge sein, die von Lehrkräften individuell eingestellt werden. Die Inhalte sind nicht für alle sichtbar, sondern nur vom Absender und den Empfängern. Diese Funktion bietet eine Vielzahl von Einsatzmöglichkeiten, die zu einer **deutlich breiteren Methodenvielfalt** in der Lehre sowie beim Lernen führen wird.
 
+![Nicht öffentlicher Teil](/readme_privat.jpg)
+
 ### 3. Bibliothek
 Es soll eine digitale Bibliothek mit wertvollen Inhalten aufgebaut werden. Dazu gehören zum Beispiel Lehrgänge in Form von Tutorials, Noten, PDFs, Hörbeispiele. In vielen Fällen können diese Inhalte vernetzt werden mit anderen Funktionen der Musiklernplattform.
+
+![Bibliothek](/readme_zugaenglich.jpg)
 
 ### 4. Persönlicher Bereich
 Die Lernplattform bietet ein digitales Hausaufgabenheft (to do) und die Dokumentation der Lernhistorie der Schüler (erledigt). Sie lässt einen Austausch von Musikdateien zwischen Lehrkräften und Schülern zu (Bild unten).
 Die Lernplattform ist an Kommunikationsbedürfnissen der Lehrkräfte orientiert und beachtet die Vorgaben der Datenschutzgrundverordnung (im Bild rechts). Als Native App sind die Inhalte an 7 Tagen/24h nutzbar. Die Plattform kann sowohl in der Musikschule als auch beim Üben zu Hause genutzt werden.
+
+![Board](/readme_board.png)
 
 ## Ausblick
 Der weitere Ausbau, der mit Fördermitteln entstandenen Plattform ist zeit- und geldaufwändig. Ziel ist es, dass möglichst viele Lizenznehmer den Open Source Quellcode nutzen. Dieser darf dann gemäß der Lizenzbestimmung von der Stadt Lahr kostenfrei genutzt werden.
@@ -36,3 +46,5 @@ Der weitere Ausbau, der mit Fördermitteln entstandenen Plattform ist zeit- und 
 ## Fazit
 Die Digitalisierung in Musikschulen ist nicht einfach nur eine mögliche Option der pädagogischen Weiterentwicklung, vielmehr ist sie eine Verpflichtung, die Musikschulen gegenüber ihren Nutzern haben und die sie verantwortungsbewusst erfüllen müssen. Eine pädagogisch getriebene Digitalisierung muss proaktiv angegangen und von den Fachkräften aus den Musikschulen gestaltet werden.
 Die Wirkung der digitalen Lernplattform für den Musikunterricht ist besonders im ländlichen Raum und in dezentralen Musikschulen sehr wertvoll. Mit der möglichen Anbindung von Blockchain zur Rechtesicherung sowie künstlicher Intelligenz zur Optimierung des Lernerlebnisses ist sie zukunftssicher. Die pädagogischen Inhalte sind unabhängig vom digitalen Format wertvoll und dauerhaft nutzbar. Technische Innovationen bauen heute auf intuitive Nutzung und Bedienerfreundlichkeit. Die digitale Lernplattform für den Musikunterricht wird als „High-Convenience-Entwicklung“ für SchülerInnen und Lehrkräfte äußerst einfach und bequem nutzbar sein.
+
+![Fazit](/readme_icons.png)![Fazit2](/readme_privat.jpg)
