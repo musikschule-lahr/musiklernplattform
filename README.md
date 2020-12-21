@@ -48,3 +48,12 @@ Die Digitalisierung in Musikschulen ist nicht einfach nur eine mögliche Option 
 Die Wirkung der digitalen Lernplattform für den Musikunterricht ist besonders im ländlichen Raum und in dezentralen Musikschulen sehr wertvoll. Mit der möglichen Anbindung von Blockchain zur Rechtesicherung sowie künstlicher Intelligenz zur Optimierung des Lernerlebnisses ist sie zukunftssicher. Die pädagogischen Inhalte sind unabhängig vom digitalen Format wertvoll und dauerhaft nutzbar. Technische Innovationen bauen heute auf intuitive Nutzung und Bedienerfreundlichkeit. Die digitale Lernplattform für den Musikunterricht wird als „High-Convenience-Entwicklung“ für SchülerInnen und Lehrkräfte äußerst einfach und bequem nutzbar sein.
 
 ![Fazit](/readme_icons.png)![Fazit2](/readme_privat.jpg)
+
+## Technische Beschreibung
+Der hier veröffentliche Quellcode besteht aus mehreren Basiskomponenten, die in separaten Repositories abgelegt sind:
+1. [UI Komponenten](https://github.com/musikschule-lahr/musiklernplattform-components)
+2. [React Split View Controller](https://github.com/musikschule-lahr/react-splitview-controller)
+3. [Bibliotheks Komponenten](https://github.com/musikschule-lahr/musiklernplattform-lib-components)
+4. [Server](https://github.com/musikschule-lahr/musiklernplattform-server)
+5. [Client](https://github.com/musikschule-lahr/musiklernplattform-client)
+6. [Management](https://github.com/musikschule-lahr/musiklernplattform-management)
